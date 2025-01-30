@@ -1,0 +1,1 @@
+En esta carpeta se llenará de scripts, que requieran obtener información de la base de datos.

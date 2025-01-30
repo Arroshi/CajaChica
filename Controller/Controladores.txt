@@ -1,0 +1,1 @@
+En esta carpeta se debería llenar con scripts, que puedan realizar alguna acción con la base de datos.
